@@ -1,0 +1,3 @@
+# 忽略 simulator-fpga-end下的target 文件
+/simulator-fpga-end/target/
+/simulator-fpga-end/.setting/

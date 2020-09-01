@@ -1,0 +1,10 @@
+{"type": "configureFile",
+"configures":
+[
+    {"type":"simulator-fpga-end-default", 
+        "properties":{"simulatorHostPort":"8800", "simulatorClientPort":"8080", "debugPrintOut":"false", "turnOn":"true", "sequenceLength":"20", "DMASize_M":"100"},
+        "registerSetting":{"settingFile":"/"},
+        "functionSetting":{"functionFile":"/"}
+    }    
+]
+}
